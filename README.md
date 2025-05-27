@@ -2,6 +2,7 @@
 O começo de tudo, aqui está o meu script . 
 
 #Como utilizar:
+
 #Passo1
 
 - Você ira entar no ubuntu(linux), acessar o diretorio no qual deseja inserir este script, vai acessar o nano colar o script, salvar e em seguidar dar as devidas permissões para o arquivo para executar o mesmo.
